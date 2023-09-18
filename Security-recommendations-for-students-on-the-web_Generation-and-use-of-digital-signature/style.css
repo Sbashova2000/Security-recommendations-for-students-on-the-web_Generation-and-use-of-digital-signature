@@ -1,0 +1,95 @@
+h1 {
+    margin-left: 10em;
+    text-align: center;
+    margin-bottom: 0em;
+    font-family: "Henny Penny", cursive;
+    color:rgb(49, 36, 4);
+}
+
+body{
+    background-color:antiquewhite;
+}
+
+h2,h3 {
+    text-align: center;
+    background-color: rgb(239, 153, 33);
+    padding: 10px;
+    font-family: "Henny Penny", cursive;
+   
+}
+
+
+p {
+    color: #3526a6;
+    
+    font-size: 17px;
+    line-height: 24px;
+    margin: 0 0 24px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+
+
+div {
+    padding-left: 20%;
+    padding-top: 40px;
+}
+
+
+
+l {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0;
+    width: 19%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+
+
+* {
+    font-family: "Lucida Handwriting", sans-serif;
+}
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-size: 17px;
+}
+
+h3 {
+    text-align: center;
+    margin: auto;
+    border-radius: 0%;
+    background: rgb(239, 153, 33);
+    padding: 15px;
+    width: 95%;
+    height: 20px;
+}
+
+
+.sup {
+
+    font-size: smaller;
+    text-align: center;
+    padding: 45%;
+
+}
+
